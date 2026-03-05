@@ -59,7 +59,7 @@ AuroSys is a **Hybrid Agentic Architecture** that combines:
 *   **Security AI (Watchdog)**: Real-time Financial UEBA and Policy enforcement to prevent fraud.
 *   **Human-Centric UI**: A 3D Digital Twin for engineers and a Companion App for drivers.
 
-> **Key Innovation**: We move from "Rule-Based Alerts" (Check Engine Light) to **"Agentic Reasoning"** (Diagnostics + Logistics + Finance).
+> **Key Innovation**: We move from "Rule-Based Alerts" (Check Engine Light) to **"Agentic Reasoning"** (Diagnostics + Logistics + Finance)
 
 ---
 
